@@ -1,13 +1,9 @@
-# TramConnect Android test downloads
+# TramConnect Android test download
 
-No APK is available yet. The first Android build is still running.
+[Download TramConnect-test.apk](https://github.com/PlayBlind/tramconnect-downloads/releases/download/android-test-1/TramConnect-test.apk)
 
-Successful test APKs will be attached to GitHub Releases in this public repository. Downloads will not require a GitHub account. The application source remains in a separate private repository.
+No GitHub sign-in or Expo Go is required. Open this link on Android, download the APK, then open it from Downloads to install. Allow installation from that browser or file manager if Android asks.
 
-## Test-only warning
+**Experimental test build: use an empty wallet only.** The app connects to the live wallet backend; transfers and swaps can move real funds. This development-key-signed APK is not a Google Play release or a security-reviewed wallet.
 
-These are experimental APKs signed with a development key, not Google Play releases or security-reviewed wallets. Use an empty test wallet only. They connect to the live wallet backend; transfers and swaps can move real funds. Never import a valuable wallet.
-
-## Installation
-
-Download the APK from a release on your Android phone, open it from Downloads and allow installation from that browser or file manager if prompted. No Expo Go is required. Disable that installation permission afterward if desired.
+The source code remains private. The release includes SHA256SUMS.txt for download verification.
